@@ -1,0 +1,7 @@
+Time Complexity:
+
+The code's time complexity is O(n) because it has a single loop that iterates through each element in the list 'arr', with 'n' being the number of elements.
+
+Space Complexity:
+
+Kinda simmilar to the Time Complexity, The Space Complexity is O(n), primarily due to the storage of 'n' integers in the 'arr' list, which occupies linear space relative to the input size.
